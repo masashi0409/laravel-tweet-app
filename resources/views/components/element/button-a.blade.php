@@ -1,5 +1,5 @@
 @props([
-  'hre => '',
+  'href' => '',
   'theme' => 'primary',
   ])
 @php
